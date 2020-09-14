@@ -7,4 +7,5 @@
     <string name="description">Descripción</string>
     <string name="btnNext">Siguiente</string>
     <string name="btnEditar">Editar</string>
+    <string name="confirmarDatos">Confirmar datos</string>
 </resources>

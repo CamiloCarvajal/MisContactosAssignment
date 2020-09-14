@@ -8,4 +8,6 @@
     <string name="description">Description</string>
     <string name="btnNext">Next</string>
     <string name="btnEditar">Edit</string>
+    <string name="confirmarDatos">Confirm</string>
+
 </resources>
