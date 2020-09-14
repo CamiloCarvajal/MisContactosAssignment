@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="name">Full name</string>
+    <string name="birthDay">Birth Day</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="description">Description</string>
+    <string name="btnNext">Next</string>
+    <string name="btnEditar">Edit</string>
+</resources>
